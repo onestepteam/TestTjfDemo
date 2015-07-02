@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="TjfLib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../web项目环境搭建工具/jar包/51CTO下载-SpringMVC需要的jar包/SpringMVC需要的jar包" />
+      <root url="jar://D:/program files/apache-tomcat-7.0.52/lib/servlet-api.jar!/" />
+      <root url="jar://D:/program files/apache-tomcat-7.0.52/lib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../web项目环境搭建工具/jar包/51CTO下载-SpringMVC需要的jar包/SpringMVC需要的jar包" recursive="false" />
+  </library>
+</component>
