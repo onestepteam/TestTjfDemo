@@ -1,4 +1,4 @@
-<%--
+﻿<%--
   Created by IntelliJ IDEA.
   User: Administrator
   Date: 2015-05-25
@@ -23,5 +23,6 @@
 </head>
 <body>
 获取值：${message}
+tangjiaofeng update!
 </body>
 </html>
